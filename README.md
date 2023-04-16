@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GizemHodoglu
-- 👀 I’m interested in Python, Python for Data Science.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Data Science and Machine Learning.
+- 🌱 I’m currently learning Machine Learning.
 
 
 <!---
